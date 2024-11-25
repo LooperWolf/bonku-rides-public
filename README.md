@@ -1,4 +1,4 @@
-***This is a documentation of my work at Bonku, Only snippets of code can be shown and not the full stack***
+***This is a documentation of my work at Bonku, Only snippets, and some files of code can be shown and not the full stack***
 
 # How it started
 Before I joined, Bonku was running its mobile platform using React Native and RESTful api with GIN on Golang.
